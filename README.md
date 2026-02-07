@@ -17,3 +17,4 @@ MUESTRA :
 <img width="1366" height="768" alt="Exp" src="https://github.com/user-attachments/assets/254928c0-bdf3-4326-a777-4c73b2e07568" />
 
 Nº4 : Manual de usuario del enlace de datos de armas : 709 MB :  179 archivos PRECIO : 26 Usd
+<img width="1366" height="768" alt="clas2" src="https://github.com/user-attachments/assets/fd3bc1a6-c564-423a-bc4a-9828496abe0f" />

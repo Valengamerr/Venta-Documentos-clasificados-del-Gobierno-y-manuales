@@ -11,7 +11,7 @@ Precio : 21 Usd
 Muestra:
 
 <img width="1366" height="768" alt="Clas" src="https://github.com/user-attachments/assets/ce1f1a67-36b7-4d0c-82b5-01fd80a51d59" />
-> [!TIP]
+> [!WARNING]
 > Nº3 : Pack de EXPLOITS : 987,8 MB PRECIO: 15 Usd 
 MUESTRA : 
 <img width="1366" height="768" alt="Exp" src="https://github.com/user-attachments/assets/254928c0-bdf3-4326-a777-4c73b2e07568" />

@@ -9,6 +9,8 @@ Precio :  10 Usd
 Muestra:
 <img width="1366" height="768" alt="DNI" src="https://github.com/user-attachments/assets/21ac5e7c-26d1-47a9-9b95-475f1e0c03a7" />
 
+![mst6](https://github.com/user-attachments/assets/d1029eca-0bcc-41da-be9a-3c8fc772412a)
+
 
 
 
@@ -35,4 +37,6 @@ Muestra:
 ![mst9](https://github.com/user-attachments/assets/69f71f79-e04e-450c-9d5f-941145a791e5)
 
 ![mst8](https://github.com/user-attachments/assets/63f6a1cb-88e1-4723-a431-6374797f12aa)
+
+![mst6](https://github.com/user-attachments/assets/9c80c3a8-9b77-44ed-a1cb-d0f365afd1f5)
 

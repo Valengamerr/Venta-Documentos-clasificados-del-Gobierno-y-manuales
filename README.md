@@ -8,14 +8,6 @@ VENTA !!
 Precio :  10 Usd
 Muestra:
 <img width="1366" height="768" alt="DNI" src="https://github.com/user-attachments/assets/21ac5e7c-26d1-47a9-9b95-475f1e0c03a7" />
-![mst2](https://github.com/user-attachments/assets/282a3f43-4a80-4cd2-b84c-1f565db9116c)
-![mst3](https://github.com/user-attachments/assets/d046fe61-77eb-46fc-b9ba-02f9c73b27f6)
-![mst4](https://github.com/user-attachments/assets/bcb618df-dce2-4a5f-a3ff-5dd39ed303bc)
-![mst5](https://github.com/user-attachments/assets/ea1d8388-852b-46a5-a310-0a8a6f0ddbff)
-![mst6](https://github.com/user-attachments/assets/032cfd29-0058-4ae8-be50-bd7ca0076571)
-![mst7](https://github.com/user-attachments/assets/ced27aac-6cfd-4b01-ac0b-3e9aab0d19ac)
-![mst8](https://github.com/user-attachments/assets/d6b62a7d-93d0-468a-a29f-25c4b9074ef8)
-![mst9](https://github.com/user-attachments/assets/b30d7749-0c2f-4487-b7ef-8ce742150858)
 
 
 
@@ -38,3 +30,5 @@ Muestra:
 
 > [!CAUTION]
 > Contacto : t.me/Valen_Qq    <- TELEGRAM
+![mst7](https://github.com/user-attachments/assets/ec35e887-775d-4c7d-a76f-2d95eaff6a61)
+

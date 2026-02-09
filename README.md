@@ -32,3 +32,7 @@ Muestra:
 > Contacto : t.me/Valen_Qq    <- TELEGRAM
 ![mst7](https://github.com/user-attachments/assets/ec35e887-775d-4c7d-a76f-2d95eaff6a61)
 
+![mst9](https://github.com/user-attachments/assets/69f71f79-e04e-450c-9d5f-941145a791e5)
+
+![mst8](https://github.com/user-attachments/assets/63f6a1cb-88e1-4723-a431-6374797f12aa)
+
